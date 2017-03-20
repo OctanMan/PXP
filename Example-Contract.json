@@ -1,0 +1,21 @@
+{
+  "policy": {
+    "id": "/ndn/pxp/demo/alice/pid-1472072362984",
+    "owner": {
+      "id": "/ndn/pxp/demo/alice"
+    },
+    "nickName": "Alice\u0027s Demo Policy",
+    "dossierUri": "/ndn/pxp/demo/alice/PXP/dossier/POLICY-ID/ndn/pxp/demo/alice/pid-1472072362984"
+  },
+  "client": {
+    "id": "/ndn/pxp/demo/alice"
+  },
+  "contractor": {
+    "id": "/ndn/pxp/demo/bob"
+  },
+  "validFrom": "2016/08/24",
+  "validTo": "2016/08/24",
+  "permissionToSubcontract": "NO",
+  "clientCertificate": "Bv0DFQdDCANuZG4IA3B4cAgEZGVtbwgFYWxpY2UIA0tFWQgRa3NrLTE0NzE3ODMyNjU1NzUIB0lELUNFUlQICf0AAAFWrTn4qBQJGAECGQQANu6AFf0BfDCCAXgwIhgPMjAxNjA4MjExMzExMTJaGA8yMDM2MDgxNjEzMTExMlowLjAsBgNVBCkTJS9uZG4vcHhwL2RlbW8vYWxpY2Uva3NrLTE0NzE3ODMyNjU1NzUwggEgMA0GCSqGSIb3DQEBAQUAA4IBDQAwggEIAoIBAQCX74reB0MJy3P65nSq9G3MvUns+hDtFDKZHrpdvPAeh5LhM44ivVh3gQaScEnmZDLakSFUmNGHSGufHJjIUWhQur85HZY5xgs5xywoLUqeIGHlmDnD45lsQ+e9J2cY6ANA4zBeaaPu90HXsFYAcotCsJHvyh0NfEz9DigtzRz969xfMR7wG+wf7XXs58hoDD8q02V3LcQmuW84QZNjAoFjJbUjPgWa7rhch1o6fyFXh1wK/MoAsz/RyiocdFRbjQtjQYPcAy9fpuucxpMwRaO7nTn1JpyNH2w0SXldK3Lho/9ItGGa/SsvAvpqju1POnk/SdASz8POX3J9NzWaxHxRAgERFj8bAQEcOgc4CANuZG4IA3B4cAgEZGVtbwgFYWxpY2UIA0tFWQgRa3NrLTE0NzE3ODMyNjU1NzUIB0lELUNFUlQX/QEAfmHm7zsfSnKjDLkVWNsd0hQeVGamDZ7DTUNv++qK7TFroGCz3dEuBXEytkJnTmgN7aHf6g81I+zKxrj1u6uYvqZVqq5qy4WCKY8EUY4M2tFAUTTWDgWEtl/1s5A9RsdjHA2BxKZTT+5OPSxRNJaEJk4xS2TtSHCQFob0hhWzMXCRqZGstj2gJnVJA3phQoQVn9g0IkVVfZ/eSnTohXnJrKYKEqOTskEXCfl1fh4/f07PDwCB2GU6zWl8Y8MHezPQ1dyDfXN4Cae5kTgMm10EmLPouzxVLdv1PRjjNtZ7II6fKvxWzwKFKRpWKr1B7EOu+AI0j0DcCrGhOf8jy+2B8Q\u003d\u003d",
+  "clientSignature": "XGQgWmxmWezyH1xPJh/g6JLWUXqy4U+ThRBSKyxB1PLOe1mcyUIYdukS5mj7+cFOUZspYPAqHhncTtyU8d/1Kg7eAqT1Bn0HxuHAeKjh5Al2yf+HVGAcrxUoCMC8HpzQBYzVkViOwodjv85Bz4suva6R6NK4THOmcTMJCX9NYK6GJtCZSNRL4RjGMtM+mbJp+cVigd2LoacDGAJ6k5wqpn7Rwl+CMyv82/RdLbMKY9VGGnXJkFpUx1zRgO02s3EX7shWW7wk0n6Fe501Rm96Jdj0KWLQJDz/eGZV3QtKzvfn6a1PqEh0Yc0fFXvi+nkcEbBFDmv/UA+Eu1IyvMLwUg\u003d\u003d"
+}
